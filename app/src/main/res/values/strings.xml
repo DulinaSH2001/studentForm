@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tutorial 4</string>
+    <string name="top_title">Register Student </string>
+    <string name="edittext_enter_id"> Enter Student ID</string>
+    <string name="spinner_select_acadamic_year">Select Acadamic Year</string>
+
+
+</resources>
